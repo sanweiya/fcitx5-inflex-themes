@@ -40,8 +40,6 @@ Semi-transparent, blurred version:
 mkdir -p ~/.local/share/fcitx5/themes && cp -r ./kwinblur-inflex-* ~/.local/share/fcitx5/themes
 ```
 
-Semi-transparent, blurred version: 
-
 ## Screenshots
 
 - **Youlan 釉蓝**
