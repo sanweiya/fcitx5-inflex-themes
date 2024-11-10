@@ -1,4 +1,4 @@
-**中文** | [English](./README.en.md)
+**English** | [中文](./README.md)
 
 # Inflex for Fcitx5
 
