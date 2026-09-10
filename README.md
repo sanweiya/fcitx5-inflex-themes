@@ -10,11 +10,13 @@
 
 > 圆角矩形爱好者？不妨看看 [fcitx5-mellow-themes](https://github.com/sanweiya/fcitx5-mellow-themes)
 
-## 🆕 新特性
+## ⚠️~~KWin下的半透明模糊~~
 
-- 适用于 KWin 的输入法窗口半透明模糊
+- ~~适用于 KWin 的输入法窗口半透明模糊~~
 
-  ![blur](./preview/blur.png)
+![blur](./preview/blur.png)
+
+由于懒得修复，不再发布该变体主题。
 
 ## 使用方法
 
@@ -28,16 +30,8 @@ git clone https://github.com/sanweiya/fcitx5-inflex-themes.git
 cd fcitx5-inflex-themes/
 ```
 
-安装不透明版本: 
-
 ```
 mkdir -p ~/.local/share/fcitx5/themes && cp -r ./inflex-* ~/.local/share/fcitx5/themes
-```
-
-安装 Kwin 模糊版本: 
-
-```
-mkdir -p ~/.local/share/fcitx5/themes && cp -r ./kwinblur-inflex-* ~/.local/share/fcitx5/themes
 ```
 
 当然，也可以自己选择需要复制的部分。
